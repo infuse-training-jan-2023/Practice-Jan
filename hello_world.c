@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
    printf("Hello, World!");
-   print("Welcome to Goa")
+   printf("Welcome to Goa");
+   printf("Syntax error fixed");
    return 0;
 }
